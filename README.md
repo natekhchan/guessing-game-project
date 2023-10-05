@@ -1,2 +1,4 @@
-# guessing-game-project
-Guessing Game Project - Nathan Chan - App Academy
+# App Academy Guessing Game Project
+Code by Nathan Chan
+
+
